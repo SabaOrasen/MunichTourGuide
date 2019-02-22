@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="restaurant">
+        <item name="android:background">#d81b60</item>
+    </style>
+    <style name="event">
+        <item name="android:background">#43a047</item>
+    </style>
+    <style name="publicPlace">
+        <item name="android:background">#5e35b1</item>
+    </style>
+
+
+</resources>
